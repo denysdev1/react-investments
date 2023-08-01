@@ -1,9 +1,35 @@
 # Investments Calculator
 
-An app where you can calculate your investments
+A React app where you can calculate your investments
 
+[DEMO-LINK](https://react-investments.vercel.app/)
 
-## Screenshots
+## Tech Stack
 
-![App Screenshot](https://imgur.com/gyQt576.png)
+React, CSS Modules
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:denysdev1/react-investments.git
+```
+
+Go to the project directory
+
+```bash
+  cd react-investments
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
